@@ -1,5 +1,5 @@
 
-# Google Trends Analysis
+# Marketing_Gtrends
 
 Analyze Google Trends data for keywords, regions, and timeframes. Generates time series and bar plots.
 
