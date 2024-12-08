@@ -1,0 +1,6 @@
+pytrends
+pandas
+matplotlib
+numpy
+scikit-learn
+warnings
