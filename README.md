@@ -34,6 +34,9 @@ Edit the script to set:
   - `'today 5-y'`: Past 5 years
   - `'all'`: Since the beginning of available data.
 
+## Output Example Folder
+The `EXAMPLE` folder contains examples of typical outputs.
+
 ## Usage
 Run the script:
 ```bash
