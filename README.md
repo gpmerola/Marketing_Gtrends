@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 ## Configuration
 Edit the script to set:
-- **Keywords**: `KEYWORDS = ["keyword1", "keyword2", "keyword3"...]`
+- **Keywords**: `KEYWORDS = ["keyword1", "keyword2", "keyword3", ...]`
 - **Region**: `GEO` options:
   - `"IT"`: Italy (nationwide)
   - `"IT-52"`: Tuscany
