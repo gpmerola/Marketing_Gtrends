@@ -46,6 +46,3 @@ The `EXAMPLE` folder contains examples of typical outputs.
 - **Plots**: 
   - Line plot (`GoogleTrends_Mensile_Plot.png`)
   - Bar plot (`GoogleTrends_Bar_Plot_Sorted_Averages.png`)
-
-## License
-MIT License.
